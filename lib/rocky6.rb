@@ -3,7 +3,7 @@ class RPS
     puts "Enter either 'rock', 'paper', or scissors"
     if (player_input == "rock") & (computer_input == "scissors")
       true
-    # elsif 
+
     end
   end
 end
